@@ -1,0 +1,456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZendSkeletonApplication\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-20 12:25+0300\n"
+"PO-Revision-Date: 2014-07-20 12:25+0300\n"
+"Last-Translator: yoj <yojemail@gmail.com>\n"
+"Language-Team: ZF Contibutors <zf-devteam@zend.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: translate;setLabel;_\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../config/menu.config.php:7
+msgid "Menu"
+msgstr ""
+
+#: ../config/menu.config.php:13
+msgid "Clients"
+msgstr ""
+
+#: ../config/menu.config.php:24 ../view/application/clients/index.phtml:22
+msgid "Add client"
+msgstr ""
+
+#: ../config/menu.config.php:30 ../view/application/clients/index.phtml:44
+msgid "View"
+msgstr ""
+
+#: ../config/menu.config.php:36 ../view/application/contracts/index.phtml:37
+#: ../view/application/users/index.phtml:27
+#: ../view/application/clients/index.phtml:48
+msgid "Edit"
+msgstr ""
+
+#: ../config/menu.config.php:46
+msgid "Account"
+msgstr ""
+
+#: ../config/menu.config.php:53
+msgid "Users"
+msgstr ""
+
+#: ../config/menu.config.php:59
+msgid "Profile"
+msgstr ""
+
+#: ../config/menu.config.php:65
+msgid "Exit"
+msgstr ""
+
+#: ../src/Application/Form/Contract.php:88
+#: ../view/application/contracts/index.phtml:22
+#: ../view/application/contracts/edit.phtml:10
+#: ../view/application/users/index.phtml:9
+#: ../view/application/clients/index.phtml:28
+msgid "#"
+msgstr ""
+
+#: ../src/Application/Form/Contract.php:107
+#: ../src/Application/Form/Client.php:108
+msgid "Contract sign date"
+msgstr ""
+
+#: ../src/Application/Form/Contract.php:117
+#: ../src/Application/Form/Client.php:138
+msgid "Phone"
+msgstr ""
+
+#: ../src/Application/Form/Contract.php:125
+#: ../src/Application/Form/Client.php:187
+msgid "Save"
+msgstr ""
+
+#: ../src/Application/Form/Contract.php:149
+msgid "Contract with same number already exists"
+msgstr ""
+
+#: ../src/Application/Form/Contract.php:180
+msgid "Phone must consist of 9 digits"
+msgstr ""
+
+#: ../src/Application/Form/ChangePassword.php:17
+#: ../src/Application/Form/Auth.php:27
+msgid "password"
+msgstr ""
+
+#: ../src/Application/Form/ChangePassword.php:20
+msgid "Current password"
+msgstr ""
+
+#: ../src/Application/Form/ChangePassword.php:28
+#: ../src/Application/Form/ChangePassword.php:31
+#: ../src/Application/Form/ChangePassword.php:39
+msgid "New password"
+msgstr ""
+
+#: ../src/Application/Form/ChangePassword.php:42
+msgid "Repeat password"
+msgstr ""
+
+#: ../src/Application/Form/ChangePassword.php:50
+msgid "Change password"
+msgstr ""
+
+#: ../src/Application/Form/Auth.php:17
+msgid "user"
+msgstr ""
+
+#: ../src/Application/Form/Auth.php:20
+#: ../src/Application/Form/User/Filter.php:29
+#: ../view/application/users/index.phtml:10
+msgid "Username"
+msgstr ""
+
+#: ../src/Application/Form/Auth.php:30
+msgid "Password"
+msgstr ""
+
+#: ../src/Application/Form/Auth.php:38
+msgid "Login"
+msgstr ""
+
+#: ../src/Application/Form/Client.php:72
+msgid "Name"
+msgstr ""
+
+#: ../src/Application/Form/Client.php:84
+msgid "Coefficient"
+msgstr ""
+
+#: ../src/Application/Form/Client.php:94
+msgid "Contract number"
+msgstr ""
+
+#: ../src/Application/Form/Client.php:118
+msgid "Identifier of tax payer"
+msgstr ""
+
+#: ../src/Application/Form/Client.php:128
+msgid "Contact person"
+msgstr ""
+
+#: ../src/Application/Form/Client.php:148
+msgid "Fax"
+msgstr ""
+
+#: ../src/Application/Form/Client.php:158
+msgid "Email"
+msgstr ""
+
+#: ../src/Application/Form/Client.php:168
+msgid "Official address"
+msgstr ""
+
+#: ../src/Application/Form/Client.php:178
+msgid "Home address"
+msgstr ""
+
+#: ../src/Application/Form/User/Filter.php:45
+#: ../view/application/clients/index.phtml:7
+msgid "All"
+msgstr ""
+
+#: ../src/Application/Form/User/Filter.php:54
+msgid "Filter"
+msgstr ""
+
+#: ../src/Application/Form/Client/Person.php:21
+msgid "Person"
+msgstr ""
+
+#: ../src/Application/Form/Client/Person.php:38
+msgid "Passport"
+msgstr ""
+
+#: ../src/Application/Form/Client/Person.php:48
+msgid "Passport issue date"
+msgstr ""
+
+#: ../src/Application/Form/Client/Person.php:58
+msgid "Passport issue organisation"
+msgstr ""
+
+#: ../src/Application/Form/Client/Company.php:21
+msgid "Company"
+msgstr ""
+
+#: ../src/Application/Form/Client/Company.php:23
+msgid "Short name"
+msgstr ""
+
+#: ../src/Application/Form/Client/Company.php:24
+msgid "Legal address"
+msgstr ""
+
+#: ../src/Application/Form/Client/Company.php:25
+msgid "Bills send address"
+msgstr ""
+
+#: ../src/Application/Form/Client/Company.php:33
+msgid "Company full title"
+msgstr ""
+
+#: ../src/Application/Form/Client/Company.php:51
+msgid "Director name"
+msgstr ""
+
+#: ../src/Application/Form/Client/Company.php:61
+msgid "State registry id"
+msgstr ""
+
+#: ../src/Application/Form/Client/Company.php:71
+msgid "VAT payer number"
+msgstr ""
+
+#: ../src/Application/Form/Client/Company.php:81
+msgid "Bank title"
+msgstr ""
+
+#: ../src/Application/Form/Client/Company.php:91
+msgid "Bank code"
+msgstr ""
+
+#: ../src/Application/Form/Client/Company.php:101
+msgid "Bank account"
+msgstr ""
+
+#: ../src/Application/Form/Client/Company.php:111
+msgid "Bank account location"
+msgstr ""
+
+#: ../src/Application/Controller/ProfileController.php:62
+#: ../src/Application/Controller/AuthController.php:57
+msgid "Incorrect password"
+msgstr ""
+
+#: ../src/Application/Controller/ContractsController.php:129
+msgid "Can not delete object because it have dependent child elements"
+msgstr ""
+
+#: ../view/layout/auth.phtml:15 ../view/layout/layout.phtml:15
+#: ../view/application/head.phtml:3
+msgid "MTS Billing"
+msgstr ""
+
+#: ../view/layout/layout.phtml:18
+msgid "Search by client or contract"
+msgstr ""
+
+#: ../view/layout/layout.phtml:19
+msgid "Search"
+msgstr ""
+
+#: ../view/application/paging.phtml:5
+msgid "On this page:"
+msgstr ""
+
+#: ../view/application/paging.phtml:28
+msgid "Total:"
+msgstr ""
+
+#: ../view/application/delete-popup.phtml:6
+#: ../view/application/contracts/index.phtml:41
+msgid "Delete"
+msgstr ""
+
+#: ../view/application/delete-popup.phtml:10
+msgid "Delete confirmation"
+msgstr ""
+
+#: ../view/application/delete-popup.phtml:13
+#: ../view/application/contracts/index.phtml:38
+msgid "Are you sure? Record will be deleted."
+msgstr ""
+
+#: ../view/application/delete-popup.phtml:17
+msgid "No"
+msgstr ""
+
+#: ../view/application/delete-popup.phtml:18
+msgid "Yes, delete it"
+msgstr ""
+
+#: ../view/application/contracts/index.phtml:11
+msgid "Add"
+msgstr ""
+
+#: ../view/application/contracts/index.phtml:15
+#: ../view/application/clients/edit.phtml:23
+msgid "Contracts"
+msgstr ""
+
+#: ../view/application/contracts/index.phtml:16
+#: ../view/application/clients/edit.phtml:24
+msgid "Documents"
+msgstr ""
+
+#: ../view/application/contracts/index.phtml:23
+msgid "Sign Date"
+msgstr ""
+
+#: ../view/application/contracts/index.phtml:24
+#: ../view/application/users/index.phtml:12
+#: ../view/application/clients/index.phtml:30
+msgid "Action"
+msgstr ""
+
+#: ../view/application/contracts/index.phtml:48
+msgid "No contracts were found."
+msgstr ""
+
+#: ../view/application/contracts/edit.phtml:10
+#: ../view/application/search/search.phtml:15
+msgid "Contract"
+msgstr ""
+
+#: ../view/application/contracts/edit.phtml:13
+msgid "New contract for"
+msgstr ""
+
+#: ../view/application/search/search.phtml:3
+msgid "Search results"
+msgstr ""
+
+#: ../view/application/search/search.phtml:9
+msgid "Client"
+msgstr ""
+
+#: ../view/application/search/search.phtml:22
+msgid "Nothing was found"
+msgstr ""
+
+#: ../view/application/profile/index.phtml:9
+msgid "User information:"
+msgstr ""
+
+#: ../view/application/profile/index.phtml:11
+msgid "User name:"
+msgstr ""
+
+#: ../view/application/profile/index.phtml:13
+msgid "User role:"
+msgstr ""
+
+#: ../view/application/profile/index.phtml:18
+msgid "Change password:"
+msgstr ""
+
+#: ../view/application/auth/index.phtml:3
+msgid "Welcome to billing"
+msgstr ""
+
+#: ../view/application/users/index.phtml:11
+msgid "Role"
+msgstr ""
+
+#: ../view/application/users/index.phtml:36
+msgid "No users were found."
+msgstr ""
+
+#: ../view/application/clients/index.phtml:11
+msgid "Persons"
+msgstr ""
+
+#: ../view/application/clients/index.phtml:15
+msgid "Companies"
+msgstr ""
+
+#: ../view/application/clients/index.phtml:29
+msgid "Name / Short name"
+msgstr ""
+
+#: ../view/application/clients/index.phtml:61
+msgid "No clients were found."
+msgstr ""
+
+#: ../view/error/index.phtml:1
+msgid "An error occurred"
+msgstr ""
+
+#: ../view/error/index.phtml:8
+msgid "Additional information"
+msgstr ""
+
+#: ../view/error/index.phtml:11 ../view/error/index.phtml:36
+msgid "File"
+msgstr ""
+
+#: ../view/error/index.phtml:16 ../view/error/index.phtml:41
+msgid "Message"
+msgstr ""
+
+#: ../view/error/index.phtml:20 ../view/error/index.phtml:45
+#: ../view/error/404.phtml:55
+msgid "Stack trace"
+msgstr ""
+
+#: ../view/error/index.phtml:30
+msgid "Previous exceptions"
+msgstr ""
+
+#: ../view/error/index.phtml:60
+msgid "No Exception available"
+msgstr ""
+
+#: ../view/error/403.phtml:1
+msgid "Access denied"
+msgstr ""
+
+#: ../view/error/403.phtml:3
+msgid "Contact your system administrator to grant access."
+msgstr ""
+
+#: ../view/error/404.phtml:1
+msgid "A 404 error occurred"
+msgstr ""
+
+#: ../view/error/404.phtml:10
+msgid "The requested controller was unable to dispatch the request."
+msgstr ""
+
+#: ../view/error/404.phtml:13
+msgid ""
+"The requested controller could not be mapped to an existing controller class."
+msgstr ""
+
+#: ../view/error/404.phtml:16
+msgid "The requested controller was not dispatchable."
+msgstr ""
+
+#: ../view/error/404.phtml:19
+msgid "The requested URL could not be matched by routing."
+msgstr ""
+
+#: ../view/error/404.phtml:22
+msgid "We cannot determine at this time why a 404 was generated."
+msgstr ""
+
+#: ../view/error/404.phtml:34
+msgid "Controller"
+msgstr ""
+
+#: ../view/error/404.phtml:41
+#, php-format
+msgid "resolves to %s"
+msgstr ""
+
+#: ../view/error/404.phtml:51
+msgid "Exception"
+msgstr ""
